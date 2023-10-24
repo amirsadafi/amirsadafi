@@ -2,7 +2,7 @@
 
 ## I'm continuously learning and growing in the world of coding, engineering and in my adventurous pursuits.
 
-I'm **Chief Technology Officer** (CTO) at SCP Consulting Engineers (https://sarinaoil.com/en/), I serve as a lecturer at Amirkabir University of technology. I have a Master's degree from Sharif University of Technology.
+I'm **Chief Technology Officer** (CTO) at [SCP Consulting Engineers](https://sarinaoil.com/en/introducing-managers/), I serve as a lecturer at [Amirkabir University of technology](https://aut.ac.ir/). I have a Master's degree from [Sharif University of Technology](https://en.sharif.edu/).
 
 I'm a passionate researcher and developer with a background in chemical engineering and a strong interest in artificial intelligence. 
 
