@@ -1,10 +1,10 @@
-# Hello, I'm [Amir Mollamohammadi Sadafi] ! 👋
+# Hello, I'm Amir Mollamohammadi Sadafi ! 👋
 
 ![Profile Picture]()
 
 ## I'm continuously learning and growing, both in the world of coding, engineering and in my adventurous pursuits.
 
-I'm Chief Technology Officer at SCP Consulting Engineers (https://sarinaoil.com/en/introducing-managers/), and Lecturer at Amirkabir University, M.Sc. Graduate from Sharif University of Technology.
+I'm **Chief Technology Officer** (CTO) at SCP Consulting Engineers (sarinaoil.com/en/), and Lecturer at Amirkabir University, M.Sc. Graduate from Sharif University of Technology.
 
 I'm a passionate researcher and developer with a background in chemical engineering and a strong interest in artificial intelligence. 
 
