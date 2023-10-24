@@ -17,7 +17,7 @@ I'm a passionate researcher and developer with a background in chemical engineer
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/amirsadafi/)
 
-- 📫 You can reach me at [amirsadafi17@gmail.com].
+📫 You can reach me at [amirsadafi17@gmail.com].
 
 
 Feel free to explore my repositories and let's collaborate on exciting projects at the intersection of tech, engineering, and AI!
