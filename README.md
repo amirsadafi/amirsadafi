@@ -2,7 +2,7 @@
 
 ![Profile Picture]()
 
-## I'm continuously learning and growing, both in the world of coding, engineering and in my adventurous pursuits.
+## I'm continuously learning and growing in the world of coding, engineering and in my adventurous pursuits.
 
 I'm **Chief Technology Officer** (CTO) at SCP Consulting Engineers (sarinaoil.com/en/), and Lecturer at Amirkabir University, M.Sc. Graduate from Sharif University of Technology.
 
