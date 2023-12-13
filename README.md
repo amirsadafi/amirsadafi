@@ -10,7 +10,6 @@ I'm a passionate researcher and developer with a background in chemical engineer
 
 🧠 Currently, I'm diving deep into the world of Artificial Intelligence and Machine Learning, exploring its vast possibilities in different industries.
 
-🎱 I absolutely love playing billiards.
 
 🪂 Paragliding is another one of my great passions. The feeling of soaring through the skies, free as a bird, is an experience like no other.
 
